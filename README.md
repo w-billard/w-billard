@@ -1,6 +1,6 @@
 <h1>Hi, I'm Wiliam! <br/><a href="https://github.com/w-billard">Sr. Systems Engineer</a>, <a href="https://www.linkedin.com/in/wbillard/">
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻Projects:</h2>
 
 - <b>TBA</b>
 
